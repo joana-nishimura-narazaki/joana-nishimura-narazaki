@@ -13,7 +13,7 @@
 
 ## 🚀 Technical Skills
 
-- **Languages & Frameworks**: JavaScript, React.js, Node.js, Python
+- **Languages & Frameworks**: ![Logo do projeto](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg), React.js, Node.js, Python
 - **Databases**: SQL, NoSQL
 - **Tools & Methodologies**: Git, GitHub, Docker, Design Patterns, TDD, DDD
 - **Areas of Interest**: Software Development, Full Stack JavaScript, Cloud Computing, Artificial Intelligence, Machine Learning, System Architecture
