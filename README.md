@@ -13,7 +13,7 @@
 
 ## 🚀 Technical Skills
 
-- **Languages & Frameworks**: <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Logo do projeto" width="30"/>, <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo do projeto" width="30"/>, <img src="https://iconscout.com/free-icon/nodejs-1" alt="Logo do projeto" width="30"/>, <img src="https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg" alt="Logo do projeto" width="30"/>
+- **Languages & Frameworks**: <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Logo do projeto" width="30"/>, <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo do projeto" width="30"/>, <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo do projeto" width="30"/>, <img src="(https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg)" alt="Logo do projeto" width="30"/>
 - **Databases**: SQL, NoSQL
 - **Tools & Methodologies**: Git, GitHub, Docker, Design Patterns, TDD, DDD
 - **Areas of Interest**: Software Development, Full Stack JavaScript, Cloud Computing, Artificial Intelligence, Machine Learning, System Architecture
