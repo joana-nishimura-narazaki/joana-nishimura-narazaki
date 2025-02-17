@@ -5,7 +5,7 @@
 
 🔭 Currently, I'm pursuing an MBA in Software Engineering at USP/Esalq, focusing on backend, frontend, and automation to build scalable solutions.
 
-🌱 My goal is to become a Full Stack Developer with a solid focus on **JavaScript**, leveraging its power on both the client and server sides.
+🌱 My goal is to become a Full Stack Developer, leveraging its power on both the client and server sides.
 
 💡 My previous experience in **graphic design** and **website development** provides me with a unique perspective on **UX/UI** and usability, complementing my software development knowledge and enhancing user-centered solutions.
 
