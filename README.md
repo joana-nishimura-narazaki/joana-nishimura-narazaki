@@ -1,7 +1,7 @@
 
 # Hi there, I'm Joana Nishimura Narazaki 👋
 
-## Software Engineer | Full Stack Developer in Progress
+## Software Engineer | Full Stack Developer
 
 🔭 Currently, I'm pursuing an MBA in Software Engineering at USP/Esalq, focusing on backend, frontend, and automation to build scalable solutions.
 
