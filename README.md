@@ -30,5 +30,5 @@ I am actively looking for a **Junior Full Stack Developer** role where I can app
 
 ## 📫 How to Reach Me
 
-Feel free to reach out via email at [joana.narzaki45@gmail.com](mailto:joana.narazaki45@gmail.com) for collaboration or inquiries.
+Feel free to reach out via email at [joana.narazaki45@gmail.com](mailto:joana.narazaki45@gmail.com) for collaboration or inquiries.
 ```
