@@ -22,12 +22,6 @@
 
 ---
 
-## 📢 Seeking Opportunities
-
-I am actively looking for a **Junior Full Stack Developer** role where I can apply my skills to build innovative, efficient, and scalable solutions. Let’s connect and collaborate! 🚀
-
----
-
 ## 📫 How to Reach Me
 
 Feel free to reach out via email at [joana.narazaki45@gmail.com](mailto:joana.narazaki45@gmail.com) for collaboration or inquiries.
